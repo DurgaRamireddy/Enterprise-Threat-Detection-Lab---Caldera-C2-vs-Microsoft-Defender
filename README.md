@@ -277,7 +277,7 @@ Status:     alive, trusted
 | Impacted Account | Administrator |
 | First Activity | Mar 25, 2026 10:48 PM |
 | Last Activity | Mar 26, 2026 12:48 AM |
-| Priority Score | 17 (escalated across operations) |
+| Priority Score | 56 (escalated across operations) |
 
 **Active Alerts:**
 1. `An active 'SandCat' malware was blocked` - Antivirus
@@ -362,7 +362,7 @@ Defender visualized the full attack chain:
 | Attack profiles executed | 3 |
 | MITRE ATT&CK techniques covered | 6 |
 | Defender alerts generated | 2 |
-| Incident priority score | 17 |
+| Incident priority score | 56 |
 | Detection sources triggered | EDR + Antivirus |
 | C2 dwell time before detection | ~1 minute |
 | Agent privilege level | Elevated (Administrator) |
