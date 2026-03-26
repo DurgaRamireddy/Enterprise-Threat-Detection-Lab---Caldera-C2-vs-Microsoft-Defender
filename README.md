@@ -288,14 +288,30 @@ Defender visualized the full attack chain:
 ```
 192.168.255.135 (C2) ──► desktop-4fnnse5 ──► splunkd.exe ──► 2 Processes
 ```
+## Screenshots
 
-![SandCat Incident Graph](screenshots/sandcat-incident-graph.png)
+### Caldera - Attack Operations
 
-![Caldera Agents Page](screenshots/caldera-agents.png)
+![Caldera Agents — Live Agent Confirmed](caldera%20agents.png)
 
-![Caldera Operation Details](screenshots/caldera-operation-details.png)
+![Super Spy Operation Details](Caldera%20Super%20Spy%20Operations%20details.png)
 
-![Defender Alerts List](screenshots/defender-alerts-list.png)
+![Ransack Operation Details](Caldera%20Ransack%20Operations%20details.png)
+
+![Thief Operation Details](Caldera%20Thief%20Operation%20details.png)
+
+
+### Microsoft Defender - Incident Analysis
+
+![Defender Alerts List](defender-alerts-list.png)
+
+![SandCat Incident Graph](sandcat-incident-graph.png)
+
+![Defender Attack Story](Defender%20Attack%20Story.png)
+
+![Defender Evidence and Response](Defender%20Evidence%20and%20Response.png)
+
+![Defender Summary](Defender%20summary.png)
 
 ---
 
