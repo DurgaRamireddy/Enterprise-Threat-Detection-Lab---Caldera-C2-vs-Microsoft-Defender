@@ -303,15 +303,17 @@ Defender visualized the full attack chain:
 
 ### Microsoft Defender - Incident Analysis
 
-![Defender Alerts List](defender-alerts-list.png)
-
 ![SandCat Incident Graph](sandcat-incident-graph.png)
 
-![Defender Attack Story](Defender%20Attack%20Story.png)
+![Defender Process Tree](Defender%20Process%20Tree.png)
+
+![Defender Activities](Defender%20Activities.png)
+
+![Defender Alerts](Defender%20Alerts.png)
 
 ![Defender Evidence and Response](Defender%20Evidence%20and%20Response.png)
 
-![Defender Summary](Defender%20summary.png)
+![Defender Summary](Defender%20Summary.png)
 
 ---
 
