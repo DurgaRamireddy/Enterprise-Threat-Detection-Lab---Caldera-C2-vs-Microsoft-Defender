@@ -128,7 +128,7 @@ Add-Computer -DomainName "lab.local" `
 ## Microsoft Defender Onboarding
 
 **Portal:** `security.microsoft.com`  
-**Tenant:** `durgacyberlab.onmicrosoft.com`  
+**Tenant:** `lab tenant (redacted)`  
 **Product:** Microsoft Defender for Business
 
 ### Onboarding Steps
@@ -177,7 +177,7 @@ python3 server.py --insecure
 ```
 
 **Access:** `http://localhost:8888`  
-**Credentials:** `red` / `admin`
+**Credentials:** `(Default credentials used in isolated lab environment only)`
 
 ### Agent Deployment to CORP-PC01
 
