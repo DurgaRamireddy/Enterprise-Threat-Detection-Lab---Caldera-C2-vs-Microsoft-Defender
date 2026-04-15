@@ -99,16 +99,16 @@ Install-ADDSForest `
 ```powershell
 # Create domain users
 New-ADUser -Name "John Smith" -SamAccountName "jsmith" `
-    -AccountPassword (ConvertTo-SecureString "Password@123!" -AsPlainText -Force) `
+    -AccountPassword (ConvertTo-SecureString "[Lab credential - not disclosed]" -AsPlainText -Force) `
     -Enabled $true
 
 New-ADUser -Name "Mary Jones" -SamAccountName "mjones" `
-    -AccountPassword (ConvertTo-SecureString "Password@123!" -AsPlainText -Force) `
+    -AccountPassword (ConvertTo-SecureString "[Lab credential - not disclosed]" -AsPlainText -Force) `
     -Enabled $true
 
 # Create Domain Admin
 New-ADUser -Name "SOC Admin" -SamAccountName "sadmin" `
-    -AccountPassword (ConvertTo-SecureString "Admin@123!" -AsPlainText -Force) `
+    -AccountPassword (ConvertTo-SecureString "[Lab credential - not disclosed]" -AsPlainText -Force) `
     -Enabled $true
 
 Add-ADGroupMember -Identity "Domain Admins" -Members "sadmin"
